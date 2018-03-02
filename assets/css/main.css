@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Cutive+Mono|Julius+Sans+One');
+
+h1{
+    font-family: Cutive Mono;
+    font-size: 50px;
+    color: #52a248;
+    text-align:center ;
+  }
+  h2,h3,h4{
+    font-family: Julius Sans One;
+    font-size: 32px;
+  }
+body{
+    color: #053D0F;
+    /*
+    ../ Go back 1 level
+    */
+     background-color: #F1EDE1;
+     background-image: url('../images/bg.jpg');
+     
+     background-size: cover
+   }
+   ul{
+     list-style-type:none;
+     background-color: #52a248;
+     color:white;
+     text-align: center;
+     font-size:20px;
+     line-height:1.5;
+   }
+   a{
+     text-decoration: none;
+     color: white;
+     font-family:Julius Sans One;
+   }
+   
